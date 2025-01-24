@@ -1,4 +1,4 @@
-#  👩🏻‍💻 Bernardo Carvalho
+#    Bernardo Carvalho  👨🏻‍💻
 
 **`Software Engineer`**
 
