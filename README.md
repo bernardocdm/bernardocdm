@@ -6,7 +6,7 @@ I am currently studying Software Engineering, a field that combines my passion f
 
 I am particularly familiar with front-end development, where I enjoy creating visually appealing and user-friendly interfaces. However, I also have a strong desire to expand my knowledge and learn about other areas of software development, always striving to grow and improve as a professional.
 
-You can contact me at: bcarvalhomercado@gmail.com
+You can contact me at: bernardocdm.dev@proton.me
 
 ###  Connect with me:
 
