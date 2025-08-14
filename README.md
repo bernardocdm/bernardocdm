@@ -88,6 +88,19 @@ You can contact me at: bernardocdm.dev@proton.me
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+
+  
+          
+
 
 
 
